@@ -1,0 +1,9 @@
+Package: riemann-cassandra
+Version: 0.0.3
+Section: misc
+Priority: optional
+Architecture: all
+Depends: oracle-java7-jdk, lyve-dse
+Maintainer: Casey Marshall <cmarshall@lyveminds.com>
+Description: Tool for emitting Cassandra metrics to Riemann.
+Distribution: development
